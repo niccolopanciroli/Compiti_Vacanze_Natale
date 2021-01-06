@@ -1,3 +1,5 @@
+print("Implementa l'algoritmo per il calcolo della soluzione di una equazione di primo grado ax+b=0. .")
+print()
 a= int(input("Inserisci il primo coefficiente della x"))
 b= int(input("Inserisci il termine noto"))
 
