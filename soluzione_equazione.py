@@ -1,5 +1,5 @@
-a= int(input("Inserisci il primo numero "))
-b= int(input("Inserisci il secondo numero "))
+a= int(input("Inserisci il primo coefficiente della x"))
+b= int(input("Inserisci il termine noto"))
 
 if a==0 and b==0:
     print("L'equazione è indeterminata")
